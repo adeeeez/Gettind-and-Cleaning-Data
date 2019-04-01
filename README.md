@@ -1,5 +1,6 @@
 
 Getting and cleaning data:
+
 One of the most developing areas right now is wearable computing. Companies like Fitbit, Nike, and Jawbone Up are racing to develop the most advanced algorithms to attract new users.
 
 Here, data collected from the accelerometer and gyroscope of the Samsung Galaxy S smartphone was retrieved and cleaned, to get a tidy dataset.
